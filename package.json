@@ -1,7 +1,7 @@
 {
   "name": "brightmann's mb blog",
   "version": "1.0.0",
-  "private": false,
+  "private": true,
   "description": "Content for blog.minghe.me — served by cici.",
   "scripts": {
     "dev": "cici --dir data",
